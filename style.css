@@ -1,0 +1,114 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #0e1538;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container a
+{
+    position: relative;
+    width: 260px;
+    height: 320px;
+    display: inline-block;
+    background: #fff;
+    margin: 20px;
+}
+.container #fir span
+{
+    background-image: url(https://i.ibb.co/NL4LJkn/fir-no-339-07-06-et00315807-10-10-2021-03-14-15.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Dujone span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/4KHabEI6OsW18RANcfg9dhITbLp.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Ajob_Premer_Golpo span
+{
+    background-image: url(https://i.ibb.co/yYLwxBj/4f98fe9624da1672a2b5986deb3a8e72-1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #Tumi_Ashbe_Bole span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/eIiHjITD2RQVrEiM7YHrGLLMKHT.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #rawkto span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BOWJkYTBkNGYtODE3OC00YWRhLTljYzEtMjI1YzFiNGFhNTk5XkEyXkFqcGdeQXVyNjk3MjI4NDg@._V1_FMjpg_UX1000_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #coc span
+{
+    background-image: url(https://m.media-amazon.com/images/M/MV5BMWYzNjUwMGMtMWI3NS00Yzk4LWFlOTktMTI4ZjU2M2Q1YWI3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #abhimaan span
+{
+    background-image: url(https://static.toiimg.com/thumb/msid-61258553,width-219,height-317,imgsize-63299/61258553.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #ebar span
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Ebar_Shabor_poster.jpg/220px-Ebar_Shabor_poster.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container #villain span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/4ymJHjBdIk9ucgyZ0Gy3puqe8MB.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container a span
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0e1538;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 1.0em;
+    letter-spacing: 2px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+    border: 1px solid #040a29;
+    overflow: hidden;
+}
