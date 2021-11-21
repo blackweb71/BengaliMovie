@@ -29,6 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
+.container #Panther span
+{
+    background-image: url(http://10.16.100.244/files/panther__2019_.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #fir span
 {
     background-image: url(https://i.ibb.co/NL4LJkn/fir-no-339-07-06-et00315807-10-10-2021-03-14-15.jpg);
