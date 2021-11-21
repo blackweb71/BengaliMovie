@@ -57,6 +57,13 @@ body
     background-repeat: no-repeat;
     background-position: center;
 }
+.container #Kidnap span
+{
+    background-image: url(https://image.tmdb.org/t/p/w185/uUzxXpWCNwFlUkcYcJM6ZPzbR5X.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #rawkto span
 {
     background-image: url(https://m.media-amazon.com/images/M/MV5BOWJkYTBkNGYtODE3OC00YWRhLTljYzEtMjI1YzFiNGFhNTk5XkEyXkFqcGdeQXVyNjk3MjI4NDg@._V1_FMjpg_UX1000_.jpg);
