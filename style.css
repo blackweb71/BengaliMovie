@@ -29,6 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
+.container #Baazi span
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Baazi_film_poster.jpg/220px-Baazi_film_poster.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Panther span
 {
     background-image: url(https://m.media-amazon.com/images/M/MV5BZTE1MDdmZmMtZjE4OS00NzMxLTkwODktNDYwNGQ2ZTcyYTQ3XkEyXkFqcGdeQXVyODk1NjE0OTk@._V1_.jpg);
