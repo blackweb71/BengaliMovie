@@ -29,6 +29,14 @@ body
     background: #fff;
     margin: 20px;
 }
+
+.container #Cockpit span
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/b/b6/Cockpit_Bengali_movie_poster.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Baazi span
 {
     background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Baazi_film_poster.jpg/220px-Baazi_film_poster.jpg);
