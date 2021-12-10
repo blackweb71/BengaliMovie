@@ -29,7 +29,13 @@ body
     background: #fff;
     margin: 20px;
 }
-
+.container #Golondaaj span
+{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/c/ca/Golondaaj.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 .container #Cockpit span
 {
     background-image: url(https://upload.wikimedia.org/wikipedia/en/b/b6/Cockpit_Bengali_movie_poster.jpg);
